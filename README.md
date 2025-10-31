@@ -1,0 +1,2 @@
+# recruitment_spreadsheet
+recruit_acquisition_demoでcsv出力だったものを、Googleスプレッドシートに書き込む形に変更したもの
